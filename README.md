@@ -18,3 +18,6 @@ If you prefer to run this notebook locally, you'll need to install the required 
 
    ```bash
    pip install -r requirements.txt
+
+## License
+This project is licensed under the [MIT License](LICENSE)
