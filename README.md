@@ -7,7 +7,7 @@ This Python Notebook demonstrates a web scraping workflow using large language m
 - Use an LLM to extract relevant information with structured output.
 
 ## Running the Notebook
-This notebook is designed to run in **Google Colab** for convenience, with all necessary libraries pre-installed in the environment. Simply upload the notebook to Colab and execute the cells sequentially.
+This notebook is designed to run in [**Google Colab**](https://colab.research.google.com/) for convenience, with all necessary libraries pre-installed in the environment. Simply upload the notebook to Colab and execute the cells sequentially.
 
 ### Running Locally
 If you prefer to run this notebook locally, you'll need to install the required dependencies. Make sure you have Python installed, then use the `requirements.txt` file to install the dependencies.
