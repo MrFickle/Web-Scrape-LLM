@@ -3,7 +3,7 @@
 This Python Notebook demonstrates a web scraping workflow using large language models (LLMs). It includes scraping web data from the 1975 Pacific hurricane season Wikipedia page, processing it, and utilizing **GPT-4o-mini** to extract relevant information and print it in a structured format.
 
 ## Key Features
-- Web scraping the (1975 Pacific hurricane season Wikipedia page)[https://en.wikipedia.org/wiki/1975_Pacific_hurricane_season].
+- Web scraping the [1975 Pacific hurricane season Wikipedia page](https://en.wikipedia.org/wiki/1975_Pacific_hurricane_season).
 - Use an LLM to extract relevant information with structured output.
 
 ## Running the Notebook
